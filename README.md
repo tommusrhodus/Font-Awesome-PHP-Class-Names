@@ -11,5 +11,6 @@ Usage: Include array.php in any way you wish. Then call the function into a vari
   
 That's it!
 
-Thanks To:
-==========
+### Thanks To:
+
+[@anjelajholden](https://github.com/angelajholden)
